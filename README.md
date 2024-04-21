@@ -1,6 +1,6 @@
 - 👋 Olá, sou Gutierrez
 
-- 👀 Tenho interesse em Java, PHP, C#, Python, SQL, SQLite, MySQL, Firebird, PostgreSQL, HTML, CSS, JavaScript, Arduino, Raspberry Pi, CircuitPython, MicroPython, C, C++ e Lua.
+- 👀 Tenho interesse em Java, PHP, C#, Python, SQL, SQLite, MySQL, Firebird, PostgreSQL, Batch, Shell, PowerShell, VBScript,  HTML, CSS, JavaScript, Arduino, Raspberry Pi, CircuitPython, MicroPython, C, C++ e Lua.
 
 - 🌱 Estou atualmente aprendendo C# WindowsForms e MySQL MariaDB.
 
