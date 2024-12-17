@@ -5,7 +5,8 @@
     - Windows Forms
   - SQLite, MySQL, Firebird e PostgreSQL
   - Batch, Shell, PowerShell e VBScript
-  - Raspberry Pi, Arduino e CircuitPython
+  - Raspberry Pi, Arduino
+    - CircuitPython
   - C, C++ e Lua
   - PHP e Tomcat
   - HTML, CSS e JavaScript
