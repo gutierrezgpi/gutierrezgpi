@@ -12,7 +12,7 @@
   - HTML, CSS e JavaScript
     - Bootstrap, React
 
-- 🌱 Estou atualmente aprendendo Python.
+- 🌱 Estou atualmente aprendendo manipulação de arquivos e banco de dados com python para validação de dados.
 
 - 👯 Estou procurando colaborar em projetos envolvendo Python e C#.
 
