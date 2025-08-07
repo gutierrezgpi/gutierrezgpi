@@ -1,19 +1,14 @@
 - 👋 Olá, sou Gutierrez
 
 - 👀 Tenho interesse em:
-  - Python e C#
-    - Windows Forms
-  - SQLite, MySQL, Firebird e PostgreSQL
-  - Batch, Shell, PowerShell e VBScript
+  - Python e .NET
+  - SQLite, MySQL eq MongoDB
+  - Batch, Shell, PowerShell
   - Raspberry Pi, Arduino
     - CircuitPython
-  - C, C++ e Lua
-  - PHP e Tomcat
-  - HTML, CSS e JavaScript
-    - Bootstrap, React
 
 - 🌱 Estou atualmente aprendendo manipulação de arquivos e banco de dados com python para validação de dados.
 
-- 👯 Estou procurando colaborar em projetos envolvendo Python e C#.
+- 👯 Estou procurando colaborar em projetos envolvendo Python ou .NET.
 
-- 📫 Você pode me encontrar pelo e-mail: [gutierrez.asd@hotmail.com](mailto:gutierrez.asd@hotmail.com)
+- 📫 Você pode me encontrar pelo e-mail: [gutierrez.asd@hotmail.com](mailto:gutierrez.asd@hotmail.com).
